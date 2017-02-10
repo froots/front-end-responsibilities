@@ -107,13 +107,12 @@ Contributions in the form of pull requests and issues are most welcome. Please r
   * Provide on-call technical support
   * Provide technical support to customers
   * Author and maintain technical product documentation
-* Testing [TODO - distribute]
-  * Author and maintain JavaScript unit tests
+* Testing
   * Author and maintain automated functional / user acceptance tests
   * Test user interfaces manually across browsers and devices
   * Author and maintain automated visual regression tests
   * Maintain a device lab
-  * Adopt a browser testing service
+  * Select and use a browser testing service
 * Version control
   * Choose an appropriate version control system and service
   * Agree and adopt an appropriate version control workflow
